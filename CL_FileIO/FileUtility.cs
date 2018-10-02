@@ -11,7 +11,7 @@ namespace CL_FileIO
         // Make sure the class impliments IFileUtility
 
         // Add a private string field called _filePath
-
+        private string _filePath;
 
         // Add a constructor that takes a string parameter called path
 
